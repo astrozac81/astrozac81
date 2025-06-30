@@ -152,3 +152,11 @@
 <p align="center">
   I'm a fullstack and blockchain developer who loves building smart contracts, decentralized applications, and web tools. Passionate about learning new technologies, contributing to open source, and delivering high-quality solutions.
 </p>
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LRenzo0801/LRenzo0801/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LRenzo0801/LRenzo0801/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LRenzo0801/LRenzo0801/output/pacman-contribution-graph.svg">
+</picture>
