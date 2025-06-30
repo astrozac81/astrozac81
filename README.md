@@ -127,32 +127,23 @@
 
 ---
 
-<h3 align="center">🚀 Featured Projects</h3>
-
-<p align="center">
-  <a href="https://github.com/LRenzo0801/erc20" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LRenzo0801&repo=erc20&theme=transparent" alt="ERC-20 Token Contract"/>
-  </a>
-  <a href="https://github.com/LRenzo0801/fakeshit" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LRenzo0801&repo=fakeshit&theme=transparent" alt="Fakeshit Project"/>
-  </a>
-</p>
-
----
-
 <h3 align="center">📫 Connect with me</h3>
 
-<p align="center">
-  <a href="https://github.com/LRenzo0801" target="_blank">
-    <img src="https://img.shields.io/github/followers/LRenzo0801?label=Follow&style=social" alt="GitHub Followers" />
+<div align="center">
+  <a href="https://discord.com/renzo77" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  <a href="isaac.laurent77@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="renzo0801" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
-</p>
+  <a href="renzo77" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo"  />
+  </a>
+</div>
+
 
 ---
 
