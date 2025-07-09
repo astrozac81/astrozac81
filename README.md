@@ -6,8 +6,15 @@
 </p>
 
 
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=astrozac81&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=astrozac81&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
 <h3 align="center">📫 Tech Stack</h3>
----
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" height="60" alt="adonisjs logo"  />
   <img width="12" />
@@ -97,7 +104,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="60" alt="xd logo"  />
 </div>
----
 
 <h3 align="center">📫 Connect with me</h3>
 
@@ -117,7 +123,15 @@
 </div>
 
 
----
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/astrozac81/astrozac81/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/astrozac81/astrozac81/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/astrozac81/astrozac81/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 <h3 align="center">✨ About Me</h3>
 
