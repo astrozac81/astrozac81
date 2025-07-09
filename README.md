@@ -5,18 +5,26 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&width=500&lines=Fullstack+%26+Blockchain+Developer;Smart+Contract+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
+###
+
 <div align="center">
-  <p>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LRenzo0801&theme=transparent" alt="Productive Time" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LRenzo0801&theme=transparent" alt="Profile Details" />
-  </p>
-  <p>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LRenzo0801&theme=transparent" alt="Repos Per Language" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LRenzo0801&theme=transparent" alt="GitHub Stats" />
-  </p>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=astrozac81&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=astrozac81&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+
 <h3 align="center">📫 Tech Stack</h3>
----
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" height="60" alt="adonisjs logo"  />
   <img width="12" />
@@ -106,7 +114,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="60" alt="xd logo"  />
 </div>
----
 
 <h3 align="center">📫 Connect with me</h3>
 
@@ -126,7 +133,15 @@
 </div>
 
 
----
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/astrozac81/astrozac81/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/astrozac81/astrozac81/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/astrozac81/astrozac81/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 <h3 align="center">✨ About Me</h3>
 
