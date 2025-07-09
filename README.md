@@ -5,16 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&width=500&lines=Fullstack+%26+Blockchain+Developer;Smart+Contract+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
-<div align="center">
-  <p>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LRenzo0801&theme=transparent" alt="Productive Time" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LRenzo0801&theme=transparent" alt="Profile Details" />
-  </p>
-  <p>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LRenzo0801&theme=transparent" alt="Repos Per Language" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LRenzo0801&theme=transparent" alt="GitHub Stats" />
-  </p>
-</div>
+
 <h3 align="center">📫 Tech Stack</h3>
 ---
 <div align="center">
